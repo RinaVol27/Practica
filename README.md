@@ -1,5 +1,5 @@
 # Practica
-<h1 align="center">Hi there, I'm <a href="https://vk.com/toad_boron" target="_blank">Rina</a> 
+<h1 align="center">Practica_04/2023_VolchkovA
 <div id="header">
  <div class="logo1">
   <a href="https://vk.com/toad_boron">
@@ -7,10 +7,10 @@
   </a>
  </div>
 </div></h1>
-<h3 align="center">This project was created as art of the practice</h3>
+<h3 align="center">Hi there, I'm <a href="https://vk.com/toad_boron" target="_blank">Rina</a></h3>
 
 
-<!---Для подробной версии, статистика по использованию языков-->
+
 ![Логотип](https://octodex.github.com/images/orderedlistocat.png "Логотип GitHub")<br></br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Computer+science+student)](https://git.io/typing-svg)<br></br>
 <code>MessageBox.Show("My name is Vokchkova Arina Maksimovna. I'm a second-year student at Tsaritsyno College.");
