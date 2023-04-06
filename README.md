@@ -13,9 +13,10 @@
 
 ![Логотип](https://octodex.github.com/images/orderedlistocat.png "Логотип GitHub")<br></br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Computer+science+student)](https://git.io/typing-svg)<br></br>
-<code>MessageBox.Show("My name is Vokchkova Arina Maksimovna. I'm a second-year student at Tsaritsyno College.");
+<code>MessageBox.Show("My name is Vokchkova Arina Maksimovna. I'm a second-year student at Tsaritsyno College."<br></br>
+We are taught to program in C#, SQL, html, css, JavaScript, and so);
 </code>
-We are taught to program in C#, SQL, html, css, JavaScript, and so
+
 
 
 
