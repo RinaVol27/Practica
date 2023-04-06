@@ -13,7 +13,7 @@ We are taught to program in C#, SQL, html, css, JavaScript, and so
 <div id="header">
  <div class="logo1">
   <a href="https://vk.com/toad_boron">
-   <img src="https://cdn-icons-png.flaticon.com/512/2527/2527814.png" width="327" height="38" />
+   <img src="https://cdn-icons-png.flaticon.com/512/2527/2527814.png" width="38" height="38" />
   </a>
  </div>
 </div>
