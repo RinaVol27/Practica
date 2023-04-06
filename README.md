@@ -7,7 +7,7 @@
   </a>
  </div>
 </div></h1>
-<h3 align="center">Hi there, I'm <a href="https://vk.com/toad_boron" target="_blank">Rina</a></h3>
+<h3 align="center">Hi there, I'm <a href="https://vk.com/toad_boron" target="_blank">Rina Volchkova</a></h3>
 
 
 
