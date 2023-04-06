@@ -6,6 +6,9 @@
 <!---Для подробной версии, статистика по использованию языков-->
 ![Логотип](https://octodex.github.com/images/orderedlistocat.png "Логотип GitHub")<br></br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Computer+science+student)](https://git.io/typing-svg)<br></br>
+<code>
+MessageBox.Show("My name is Vokchkova Arina Maksimovna. I'm a second-year student at Tsaritsyno College.");
+</code>
 <span>My name is Vokchkova Arina Maksimovna. I'm a second-year student at Tsaritsyno College.</span> 
 
 
