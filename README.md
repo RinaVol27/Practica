@@ -4,7 +4,7 @@
 <h3 align="center">This project was created as art of the practice</h3>
 
 <!---Для подробной версии, статистика по использованию языков-->
-![Логотип](https://octodex.github.com/images/orderedlistocat.png "Логотип GitHub")<br></br>
+![Логотип](blob:https://web.telegram.org/7bdb3896-6c4f-4bba-8b74-aac3f509c0cb"Логотип GitHub")<br></br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Computer+science+student)](https://git.io/typing-svg)<br></br>
 <code>MessageBox.Show("My name is Vokchkova Arina Maksimovna. I'm a second-year student at Tsaritsyno College.");
 </code>
